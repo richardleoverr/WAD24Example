@@ -55,7 +55,24 @@ export default {
 </script>
 
 <style scoped>
-
+h1 {
+  font-size: 20px;
+}
+th {
+  background: rgb(100, 151, 122);
+}
+td{
+  background: rgb(147, 216, 177);
+}
+th, td {
+  font-size: 15px;
+  margin-bottom: 5px;
+  padding: 8px 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
 
 
 </style>

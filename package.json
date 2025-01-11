@@ -26,6 +26,6 @@
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
-    "cypress": "^13.16.0"
+    "cypress": "^13.17.0"
   }
 }
